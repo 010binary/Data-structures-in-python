@@ -75,4 +75,4 @@ Here's a condensed explanation of the code:
 - **`print_list(self)`**: Prints the contents of the list by traversing the list and displaying the data of each node.
 
 The code creates an instance of the `LinkedList` class, prints an empty list, adds nodes to the front and end of the list, prints the updated list, retrieves and prints the data of the last node, and checks if the list is empty.
-### [for more on linked list](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=Singly%20linked%20lists%20can%20be,to%20the%20current%20data%20element.)
+### [for more on linked list and other User-defined data structure](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=Singly%20linked%20lists%20can%20be,to%20the%20current%20data%20element.)
