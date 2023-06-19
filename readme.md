@@ -37,7 +37,7 @@ Here is a concise explanation of the code:
 The code creates an instance of the `Queue` class, enqueues three items ('a', 'b', and '42'), and prints the contents of the queue after each enqueue operation. Then it dequeues an item and prints the updated queue.
 
 
-# Python stacks
+## Python stacks
 The code defines a `Stack` class that implements a basic stack data structure **[LIFO] `LAST IN FIRST OUT`** using a list. It includes methods to check if the stack is empty, push (add) an item onto the stack, pop (remove) an item from the stack, and print the contents of the stack.
 
 Here's a concise explanation of the code:
@@ -55,7 +55,7 @@ Here's a concise explanation of the code:
 The code creates a `Stack` instance, pushes three items ('a', 'b', and 'c') onto the stack, and prints the stack after each push operation. It then pops an item from the stack and prints the updated stack.
 
 
-# Python linked list
+## Python linked list
 The code defines a `Node` class that represents a single node in a linked list, and a `LinkedList` class that implements basic operations on the linked list. The code creates an instance of the `LinkedList` class, adds nodes to the front and end of the list, retrieves the last node's data, checks if the list is empty, and prints the contents of the list.
 
 Here's a condensed explanation of the code:
@@ -75,4 +75,4 @@ Here's a condensed explanation of the code:
 - **`print_list(self)`**: Prints the contents of the list by traversing the list and displaying the data of each node.
 
 The code creates an instance of the `LinkedList` class, prints an empty list, adds nodes to the front and end of the list, prints the updated list, retrieves and prints the data of the last node, and checks if the list is empty.
-[for more on linked list](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=Singly%20linked%20lists%20can%20be,to%20the%20current%20data%20element.)
+### [for more on linked list](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=Singly%20linked%20lists%20can%20be,to%20the%20current%20data%20element.)
