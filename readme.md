@@ -1,4 +1,4 @@
-# Data Structures in python
+# User-defined Data Structures in python
 
 
 ## Python graph
